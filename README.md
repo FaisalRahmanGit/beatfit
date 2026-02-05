@@ -51,7 +51,7 @@ The JavaScript logic dynamically adapts the slider layout across screen sizes us
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -66,7 +66,7 @@ The JavaScript logic dynamically adapts the slider layout across screen sizes us
 
 ---
 
-## ▶️ Getting Started
+## Getting Started
 
 You can run the project locally in seconds:
 
@@ -77,22 +77,18 @@ You can run the project locally in seconds:
 
 ---
 
-## 📌 Project Status
+## Project Status
 
 **Prototype / Static Demo**
 This project is intended for concept validation, UI demonstration, and early-stage product presentation.
 
 ---
 
-## 📄 License
+## License
 
 This project is for demonstration and educational purposes.
 
 ---
-
-
-
-
 
 
 Features
@@ -112,4 +108,5 @@ Project structure
 - `assets/css/style.css` — styles
 - `assets/js/custom.js` — scripts
 - `assets/images/` — images and icons
+
 
